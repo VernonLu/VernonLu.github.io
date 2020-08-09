@@ -1,0 +1,13 @@
+{
+  "Name": "Haotian Lu",
+  "Title": "Game Developer / Techincal Artist",
+  "Lang":{
+    "en": "EN",
+    "zh": "CH"
+  },
+  "About": "About",
+  "Projects": "Projects",
+  "Resume": "Resume",
+
+  "ResumeLink": "../../../assets/Resume_Vernon_Lu_2020_EN.pdf"
+}
